@@ -13,10 +13,11 @@
 ## Project Stucture
 * Create these directores
  * lib -> for supporting modules
- * test -> for test files
+ * test -> for test files (not needed for this assignment, but will be needed for a future assignment)
 * a main program called server.js
 * Include a .gitignore
 * Include the coures .eslintrc
+* Include a package.json, but you do not need tests or a gulp file for this assignment
 
 ## Directions
 * Create a TCP Server use using the net module
